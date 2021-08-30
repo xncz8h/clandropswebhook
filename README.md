@@ -15,3 +15,6 @@ A plugin which allows to send a message to your Discord server using a webhook w
 ### TODO:
 * Add support for level ups.
 * Add support for multiple webhook links for specific channels
+
+#### Contact:
+email: xncz8h@gmail.com
